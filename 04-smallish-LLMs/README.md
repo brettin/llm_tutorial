@@ -5,10 +5,11 @@ Author: [Sam Foreman](https://samforeman.me)
 
 This tutorial will explore creating smallish LLMs.
 
-:link: [Project Website](https://saforem2.github.io/nanoGPT)
-
+:link:(s):
+- [`saforem2/nanoGPT`](https://github.com/saforem2/nanoGPT)
+- [Project Website](https://saforem2.github.io/nanoGPT)
 - Examples:
-    - [Shakespeare](./shakespeare.md)
-    - [GPT-2 Medium](./gpt2-medium.md)
-    - [GPT-2 XL](./gpt2-xl.md)
+    - [Shakespeare](https://saforem2.github.io/nanoGPT/quarto/shakespeare.html)
+    - [GPT-2 Medium](https://saforem2.github.io/nanoGPT/quarto/gpt2-medium.html)
+    - [GPT-2 XL](https://saforem2.github.io/nanoGPT/quarto/gpt2-xl.html)
 
