@@ -5,6 +5,8 @@ Author: [Sam Foreman](https://samforeman.me)
 
 This tutorial will explore creating smallish LLMs.
 
+We will be using a fork of Andrej Karpathy's `nanoGPT`
+
 :link:(s):
 - [`saforem2/nanoGPT`](https://github.com/saforem2/nanoGPT)
 - [Project Website](https://saforem2.github.io/nanoGPT)
