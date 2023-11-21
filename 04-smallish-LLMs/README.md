@@ -1,6 +1,6 @@
 # Hands-on Tutorial 4: Creating (smallish) LLMs
 
-Date: 2023-11-30
+Date: 2023-11-30  
 Author: [Sam Foreman](https://samforeman.me)
 
 This tutorial will explore creating smallish LLMs.
