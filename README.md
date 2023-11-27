@@ -2,7 +2,7 @@
 # llm_tutorial
 llm_tutorials
 
-This repository contains the materials used in the LLM Tutorial Workshop, Dec X and Y.
+This repository contains the materials used in the LLM Tutorial Workshop, November 29th and 30th 2023.
 
 The workshop agenda is here: link to doc in github.
 
