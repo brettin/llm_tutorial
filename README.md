@@ -13,7 +13,7 @@ The  workshop material will rely on Jupyter Notebooks which are targeted for run
 
 Do the following before you come to the tutorial:
 
-## Google Colab Account
+## 1. Google Colab Account
 *  You need a Google Account to use Colaboratory
 *  Goto [Google's Colaboratory Platform](https://colab.research.google.com) and sign in with your google account
 *  You should see this page
@@ -36,7 +36,7 @@ Do the following before you come to the tutorial:
 
 
 
-## Sign up for a huggingface account: https://huggingface.co
+## 2. Sign up for a huggingface account: https://huggingface.co
   
 -  Sign Up (top bar)
 
@@ -44,7 +44,7 @@ Log into huggingface and get an access token:
   
 -  Login -> Settings (left pane) -> Access Tokens (left pane) -> New token (center pane)
 
-## Request access to llama-2 model
+## 3. Request access to llama-2 model
 
 - visit this https://huggingface.co/meta-llama/Llama-2-7b-hf and request access to the model
 - vist meta website and accept the terms https://ai.meta.com/resources/models-and-libraries/llama-downloads/
