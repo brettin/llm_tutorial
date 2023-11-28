@@ -20,7 +20,7 @@ Do the following before you come to the tutorial:
 ![start_page](README_imgs/colab_start_page.png)
 *  Click on the `New Notebook` at the bottom
 *  Now you will see a new notebook where you can type in python code.
-![clean_page](README_imgs/collab_start_page1.png)
+![clean_page](README_imgs/colab_start_page1.png)
 *  After you enter code, type `<shift>+<enter>` to execute the code cell.
 *  A full introduction to the notebook environment is out of scope for this tutorial, but many can be found with a [simple Google search](https://www.google.com/search?q=jupyter+notebook+tutorial)
 *  We will be using notebooks from this repository during the tutorial, so  you should be familiar with how to import them into Colaboratory
