@@ -22,3 +22,4 @@ Log into huggingface and get an access token:
 
 - visit this https://huggingface.co/meta-llama/Llama-2-7b-hf and request access to the model
 - vist meta website and accept the terms https://ai.meta.com/resources/models-and-libraries/llama-downloads/
+- Note: Your Hugging Face account email address MUST match the email you provide on the Meta website, or your request will not be approved.
