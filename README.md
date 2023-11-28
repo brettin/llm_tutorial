@@ -18,5 +18,6 @@ Log into huggingface and get an access token:
   
 -  Login -> Settings (left pane) -> Access Tokens (left pane) -> New token (center pane)
 
+## request access to llama-2 model
 
-
+- visit this https://huggingface.co/meta-llama/Llama-2-7b-hf and request access to the model
