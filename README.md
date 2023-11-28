@@ -27,7 +27,7 @@ Do the following before you come to the tutorial:
 *  Now you can open the `File` menu at the top left and select `Open Notebook` which will open a dialogue box.
 *  Select the `GitHub` tab in the dialogue box.
 *  From here you can enter the url for the github repo: `https://github.com/brettin/llm_tutorial` and hit `<enter>`.
-![open_github](README_imgs/colab_open_github.png)
+![open_github](README_imgs/colab_open_github_1.png)
 *  This will show you a list of the Notebooks available in the repo.
 *  Select the `introduction.ipynb` file to open and work through it.
 *  As each session of the tutorial begins, you will simply select the corresponding notebook from this list and it will create a copy for you in your Colaboratory account (all `*.ipynb` files in the Colaboratory account will be stored in your Google Drive).
