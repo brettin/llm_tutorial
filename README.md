@@ -36,7 +36,7 @@ Do the following before you come to the tutorial:
 
 
 
-## 2. Sign up for a huggingface account: https://huggingface.co
+## 2. Sign up for a huggingface account and obtain an access token: https://huggingface.co
   
 -  Sign Up (top bar)
 
