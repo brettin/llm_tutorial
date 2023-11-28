@@ -21,3 +21,4 @@ Log into huggingface and get an access token:
 ## request access to llama-2 model
 
 - visit this https://huggingface.co/meta-llama/Llama-2-7b-hf and request access to the model
+- vist meta website and accept the terms https://ai.meta.com/resources/models-and-libraries/llama-downloads/
