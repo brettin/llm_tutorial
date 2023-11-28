@@ -17,7 +17,7 @@ Do the following before you come to the tutorial:
 *  You need a Google Account to use Colaboratory
 *  Goto [Google's Colaboratory Platform](https://colab.research.google.com) and sign in with your google account
 *  You should see this page
-![start_page](README_imgs/colab_start_page.png)
+![start_page](README_imgs/colab_start_page_new.png)
 *  Click on the `New Notebook` at the bottom
 *  Now you will see a new notebook where you can type in python code.
 ![clean_page](README_imgs/colab_start_page1.png)
