@@ -9,29 +9,29 @@ We will be using a fork of Andrej Karpathy's `nanoGPT`
 
 :link:(s):
 
-- [Slides](https://saforem2.github.io/LLM-tutorial/#/llms-tutorial-workshop)
+- 📊 [Slides](https://saforem2.github.io/LLM-tutorial/#/llms-tutorial-workshop)
   
-- [Project Website](https://saforem2.github.io/nanoGPT)
+- 🏡 [Project Website](https://saforem2.github.io/nanoGPT)
   
-- [`saforem2/nanoGPT`](https://github.com/saforem2/nanoGPT) (GitHub repo)
+- 💻 [`saforem2/nanoGPT`](https://github.com/saforem2/nanoGPT) (GitHub repo)
   
-- Examples:
+- 📚 Examples:
   
-    - **Shakespeare**:
+    - 📒 **Shakespeare**:
         - [Web Version](https://saforem2.github.io/nanoGPT/quarto/shakespeare.html)
         - [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saforem2/nanoGPT/blob/master/notebooks/ngpt-shakespeare.ipynb)  
         - [`saforem2/nanoGPT/notebooks/ngpt-shakespeare.ipynb`](https://github.com/saforem2/nanoGPT/blob/master/notebooks/ngpt-shakespeare.ipynb)
           
-    - **GPT-2 Small** (`yelp_review_full` dataset):
+    - 📒 **GPT-2 Small** (`yelp_review_full` dataset):
         - [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saforem2/nanoGPT/blob/master/notebooks/ngpt-gpt2-yelp.ipynb)
         - [`saforem2/nanoGPT/notebooks/ngpt-gpt2-yelp.ipynb`](https://github.com/saforem2/nanoGPT/blob/master/notebooks/ngpt-gpt2-yelp.ipynb)
           
-    - **GPT-2 Medium**:
+    - 📒 **GPT-2 Medium**:
         - [Web Version](https://saforem2.github.io/nanoGPT/quarto/gpt2-medium.html)
         - [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saforem2/nanoGPT/blob/master/notebooks/ngpt-gpt2.ipynb)
         - [`saforem2/nanoGPT/notebooks/ngpt-gpt2.ipynb`](https://github.com/saforem2/nanoGPT/blob/master/notebooks/ngpt-gpt2.ipynb)
           
-    - **GPT-2 XL**:
+    - 📒 **GPT-2 XL**:
         - [Web Version](https://saforem2.github.io/nanoGPT/quarto/gpt2-xl.html)
         - [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saforem2/nanoGPT/blob/master/notebooks/ngpt-gpt2-xl.ipynb)
         - [`saforem2/nanoGPT/notebooks/ngpt-gpt2-xl.ipynb`](https://github.com/saforem2/nanoGPT/blob/master/notebooks/ngpt-gpt2-xl.ipynb)
