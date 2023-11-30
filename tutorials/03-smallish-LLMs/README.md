@@ -8,6 +8,9 @@ This tutorial will explore creating smallish LLMs.
 We will be using a fork of Andrej Karpathy's `nanoGPT`
 
 :link:(s):
+
+- [Slides](https://saforem2.github.io/LLM-tutorial/#/llms-tutorial-workshop)
+  
 - [Project Website](https://saforem2.github.io/nanoGPT)
   
 - [`saforem2/nanoGPT`](https://github.com/saforem2/nanoGPT) (GitHub repo)
